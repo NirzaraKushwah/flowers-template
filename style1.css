@@ -1,0 +1,104 @@
+#maindiv
+{
+    width:900px;
+    margin:auto;
+}
+#header1
+{
+    background: gray;
+    height:14px;
+}
+#header2
+{
+    /*background:pink;*/
+    height:120px;
+}
+#logo1
+{
+margin-top: 20px;
+margin-left:30px;
+}
+#logo2
+{
+margin-top:20px;    
+float: right;
+margin-right:10px;
+}
+#menu
+{
+    background: pink;
+    height: 30px;
+    padding: 10px;
+}
+#menu a
+{
+    color:black;
+    font-size: 22px;
+    margin-right:45px;
+    text-decoration: none;
+    font-weight: bolder;
+}
+#header3
+{
+ /*   background: pink;*/
+    height: 280px;
+    position: relative;
+    
+}
+#logo3
+{
+    width:900px;
+    height:280px;
+    background-repeat: no-repeat;
+   
+}
+#logo4
+{
+    position: absolute;
+    margin-top: 30px;
+    left:40px;
+}
+#content1
+{
+   /* background: aqua;*/
+    width: 35%;
+    float: left;
+    height:440px;
+}
+#content2
+{
+   /* background:palevioletred;*/
+    width: 65%;
+    float: right;
+    height:440px;
+}
+#footer
+{
+    background:palegoldenrod;
+    height:90px;
+}
+.imgclass
+{
+    margin-left: 15px;
+    width:250px;
+    height:65px;
+    padding: 10px;
+}
+p
+{
+    margin-left: 15px;
+    font-size: 22px;
+    font-style: italic;
+    font-weight: bold;
+    color:yellow;
+}
+#footerdata
+{
+    padding: 10px;
+}
+#footerdata a
+{
+    color:black;
+    font-size: 18px;
+    font-weight: bold;
+}
